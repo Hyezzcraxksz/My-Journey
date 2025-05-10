@@ -1,0 +1,3 @@
+Application Layer is processing in websites mostly and the protocols example are
+HTTP, DNS, TELNET, SMTP, SNMP, RDP This is the login process host for example
+facebook login basically something to save accout data it receives login request
