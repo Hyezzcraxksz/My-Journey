@@ -1,3 +1,10 @@
 Application Layer is processing in websites mostly and the protocols example are
 HTTP, DNS, TELNET, SMTP, SNMP, RDP This is the login process host for example
 facebook login basically something to save accout data it receives login request
+hackers learn this because they exploit this vulnerability spot to hsck accounts using attack methods such as
+Bruteforce, Dictionary Attack, and more by understanding how to exploit this log in page
+and measure login security a hidden code that probably stores data and finds the right or compatible passwords
+to that account or log in information we can intercept this using burpsuite interceptor
+before strong password or high tech log in security measures were created
+hackers used to exploit this vulnerability spot to steal money or sell Data
+but into this day hackers can still do this but in a hard way possible and trying to bypass this with various of tools.
